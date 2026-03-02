@@ -21,7 +21,7 @@ Telco Customer Churn Dataset (IBM Sample)
 - Random Forest Accuracy: ~76%
 - Improved Recall for churn class using class_weight='balanced'
 
-## Author
+## Team 33
 - Manish Agrawal
 - Abhay Singh
 - Gaurav Kumar Bansal
