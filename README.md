@@ -14,7 +14,7 @@ This project predicts customer churn using Machine Learning.
 - Model comparison (Accuracy, Precision, Recall, F1)
 
 ## Dataset
-Telco Customer Churn Dataset (IBM Sample)
+Telco Customer Churn Dataset [Source - Kaggle]
 
 ## Results
 - Logistic Regression Accuracy: ~74%
