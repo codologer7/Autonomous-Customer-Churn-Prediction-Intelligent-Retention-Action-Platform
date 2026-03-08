@@ -11,7 +11,7 @@ The system helps businesses **identify high-risk customers and take retention ac
 
 ---
 ## Project Structure
-
+```
 
 Autonomous-Customer-Churn-Prediction
 │
@@ -26,6 +26,7 @@ Autonomous-Customer-Churn-Prediction
 ├── churn_model.pkl
 ├── Customer_Churn.ipynb
 └── README.md
+```
 ---
 ## Tech Stack
 
@@ -59,7 +60,7 @@ Autonomous-Customer-Churn-Prediction
 
 - ## Project Architecture
 
-
+```
 React Frontend
 │
 ▼
@@ -68,6 +69,7 @@ FastAPI Backend
 ▼
 Machine Learning Model
 (Random Forest / Logistic Regression)
+```
 
 ## Dataset
 Telco Customer Churn Dataset [Source - Kaggle]
