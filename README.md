@@ -10,6 +10,23 @@ It combines:
 The system helps businesses **identify high-risk customers and take retention actions**.
 
 ---
+## Project Structure
+
+
+Autonomous-Customer-Churn-Prediction
+│
+├── Backend
+│ └── main.py
+│
+├── frontend
+│ ├── src
+│ ├── public
+│ └── package.json
+│
+├── churn_model.pkl
+├── Customer_Churn.ipynb
+└── README.md
+---
 ## Tech Stack
 
 ### Machine Learning
@@ -39,6 +56,18 @@ The system helps businesses **identify high-risk customers and take retention ac
 - Feature importance analysis
 - SHAP Explainability
 - Model comparison (Accuracy, Precision, Recall, F1)
+
+- ## Project Architecture
+
+
+React Frontend
+│
+▼
+FastAPI Backend
+│
+▼
+Machine Learning Model
+(Random Forest / Logistic Regression)
 
 ## Dataset
 Telco Customer Churn Dataset [Source - Kaggle]
