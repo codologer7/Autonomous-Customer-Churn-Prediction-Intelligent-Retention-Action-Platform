@@ -49,6 +49,51 @@ Telco Customer Churn Dataset [Source - Kaggle]
 - Improved Recall for churn class using class_weight='balanced'
 
 ---
+## Running the Project
+
+### Run Backend
+
+
+cd Backend
+uvicorn main:app --reload
+
+
+Backend runs at:
+
+
+http://127.0.0.1:8000
+
+
+Swagger API docs:
+
+
+http://127.0.0.1:8000/docs
+
+
+---
+
+### Run Frontend
+
+
+cd frontend
+npm install
+npm start
+
+
+Frontend runs at:
+
+
+http://localhost:3000
+
+
+---
+
+## Example Output
+
+
+Prediction: 0
+Probability: 39.86%
+Customer not likely to churn
 
 ## Contributors
 
