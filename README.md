@@ -1,4 +1,5 @@
-Try Our Platform [Here](https://churn-frontend-mv4h.onrender.com/)
+**Try Our Platform [Here](https://churn-frontend-mv4h.onrender.com/)**
+
 <h1>Autonomous Customer Churn Prediction & Intelligent Retention Platform</h1>
   <p>
     <strong>Predict customer churn before it happens and take autonomous action to retain your most valuable users.</strong>
