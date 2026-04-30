@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Background */
+body {
+  background: radial-gradient(circle at top, #1e293b, #020617);
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Optional smooth feel */
+* {
+  transition: all 0.2s ease-in-out;
+}
