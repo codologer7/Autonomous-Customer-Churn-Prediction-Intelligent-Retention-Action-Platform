@@ -127,5 +127,5 @@ Upload a CSV dataset of multiple customers to get predictions for the entire bat
 ---
 
 <div align="center">
-  <b>Built with ❤️ for the Hackathon!</b>
+  <b>Built with 🔥 By Team 33!</b>
 </div>
