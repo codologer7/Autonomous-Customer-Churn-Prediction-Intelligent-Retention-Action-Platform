@@ -8,6 +8,8 @@ import { motion } from "framer-motion";
 ChartJS.register(ArcElement, Tooltip);
 
 function App() {
+  const API_URL = process.env.REACT_APP_API_URL || "http://127.0.0.1:8000";
+
   const [page, setPage] = useState("landing");
   const [mode, setMode] = useState(null);
 
@@ -31,7 +33,7 @@ const [singleResult, setSingleResult] = useState(null);
 const handleSinglePredict = async () => {
   try {
     const res = await axios.post(
-      "http://127.0.0.1:8000/predict",
+      `${API_URL}/predict`,
       singleInput
     );
     setSingleResult(res.data);
@@ -49,7 +51,7 @@ const handleSinglePredict = async () => {
     try {
       setLoading(true);
       const res = await axios.post(
-        "http://127.0.0.1:8000/predict-bulk",
+        `${API_URL}/predict-bulk`,
         fd
       );
       setResult(res.data);
