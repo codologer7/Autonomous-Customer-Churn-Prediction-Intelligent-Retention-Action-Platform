@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=ChurnPredict" alt="Logo" width="100" height="100">
-
-  <h1>Autonomous Customer Churn Prediction & Intelligent Retention Platform</h1>
+Try Our Platform [Here](https://churn-frontend-mv4h.onrender.com/)
+<h1>Autonomous Customer Churn Prediction & Intelligent Retention Platform</h1>
   <p>
     <strong>Predict customer churn before it happens and take autonomous action to retain your most valuable users.</strong>
   </p>
