@@ -1,4 +1,4 @@
-**Try Our Platform [Here](https://churn-frontend-mv4h.onrender.com/)**
+**Experience Our Platform [Here](https://churn-frontend-mv4h.onrender.com/)**
 
 <h1>Autonomous Customer Churn Prediction & Intelligent Retention Platform</h1>
   <p>
